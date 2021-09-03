@@ -1,4 +1,4 @@
-### Estudante de Engenharia de Computação na UFPB e desenvolvedor backend Java na Newsoft Tecnologia. Apaixonado por tecnologia e desenvolvimento, atualmente focado no desenvolvimento com a linguagem de programação Java e o framework Spring, mas também já teve experiencias com desenvolvimento Frontend utilizando a biblioteca React.
+### Estudante de Engenharia de Computação na UFPB e desenvolvedor backend Java na Newsoft Tecnologia. Apaixonado por tecnologia e desenvolvimento, atualmente focado no desenvolvimento com a linguagem de programação Java e o framework Spring, mas também já teve experiência com desenvolvimento Frontend utilizando a biblioteca React.
 
 - 🔭 Desenvolvedor Banckend Java
 - 🌱 Estudando as tecnologias do mundo Java e do ecosistema Spring
